@@ -31,7 +31,7 @@
 ## INDIRECT CHANNELS
 - zendesk-ui
 - mi tigo agent (recommender)
-- distributio app
+- distribution app
 - convergent-db
 - nps
 
